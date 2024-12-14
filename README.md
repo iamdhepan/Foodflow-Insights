@@ -9,13 +9,7 @@ This project analyzes user behavior, cooking preferences, and order trends using
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-# **Report on User Behavior, Cooking Preferences, and Order Trends**
 
----
-
-## **1. Introduction**
-
-This analysis aims to explore and understand key insights into user behavior, cooking preferences, and order trends. The analysis uses three datasets: **UserDetails**, **CookingSessions**, and **OrderDetails**. The goal is to clean, merge, and analyze these datasets to identify correlations, popular dishes, and demographic factors influencing user behavior.
 
 ---
 
